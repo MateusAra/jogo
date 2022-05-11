@@ -1,0 +1,8 @@
+BEM VINDO AO GAME:
+    ----------------------------
+    |     MESTRES              |
+    |        DA FUGA!!!        |
+    ----------------------------
+O jogo consiste em voce percorrer o mapa por uma rota tracada por voce colhendo pontos, ate subir de nivel...
+Dentro de um tempo limite!
+Utilize as setas do teclado para mover o personagem no mapa... 
